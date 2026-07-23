@@ -1,5 +1,5 @@
 # 万能小工具库（完善中）
-##一.🎯 五子棋 · 人机对战
+## 一.🎯 五子棋 · 人机对战
 一个纯前端、开箱即用的五子棋游戏，支持三种难度和先后手选择，AI 基于智能评分算法，兼顾进攻与防守。
 
 🎮 玩法说明
@@ -10,10 +10,6 @@
   智能 AI：基于连子数与开放性的评分算法，具备基础攻防策略
 
   响应式设计：在电脑和手机上都可流畅游玩
-
-  无需安装：单个 HTML 文件，双击即可运行
-
-  打开 gomoku.html 文件（浏览器自动运行）
 
   点击棋盘落子，AI 自动响应
 
@@ -26,10 +22,10 @@ CSS3（自定义变量 + 响应式布局）
 
 📦 运行方式
 本地运行
-直接双击 [gomoku.html](gomoku.html) 文件，在浏览器中打开即可开始游戏。
+直接双击 [gomoku_standalone.html](gomoku_standalone.html) 文件，在浏览器中打开即可开始游戏。
 
 在线预览
-将 gomoku.html 部署到任意静态托管服务（如 GitHub Pages、Vercel、Netlify）即可在线游玩。
+将 gomoku_standalone.html 部署到任意静态托管服务（如 GitHub Pages、Vercel、Netlify）即可在线游玩。
 
 📄 许可证
 本项目采用 MIT License，可自由使用、修改和分发。
